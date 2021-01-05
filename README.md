@@ -1,16 +1,16 @@
 # petstore-vuejs
 
-Mini web project for study vue.js
+Mini web project for study vue.js  
 (Reference Book : Vue.js 코딩 공작소)
 
 ## Prepare the environment
 
 ### 1. Install Node.js & npm
 
-Node.js : http://nodejs.org/en/download
+Node.js : http://nodejs.org/en/download  
 NVM : https://github.com/creationix/nvm
 
-for MacOS
+**for MacOS**
 ``` bash
 # Homebrew
 $ brew install node
@@ -19,7 +19,7 @@ $ brew install node
 $ sudo port install nodejs
 ```
 
-for Linux
+**for Linux**
 ``` bash
 # ubuntu
 $ sudo apt-get install nodejs
@@ -28,7 +28,7 @@ $ sudo apt-get install nodejs
 $ yum install nodejs
 ```
 
-check
+**check**
 ``` bash
 $ node -v
 $ npm -v
@@ -79,5 +79,3 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-
-this project followed by
