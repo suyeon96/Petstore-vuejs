@@ -34,7 +34,7 @@ $ node -v
 $ npm -v
 ```
 
-### 3. Create Vue-CLI Application
+### 2. Create Vue-CLI Application
 
 ``` bash
 # Install vue-cli
@@ -45,7 +45,7 @@ $ vue init webpack petstore  # vue init <template-name> <project-name>
 $ cd petstore
 ```
 
-### 4. Install Vuex
+### 3. Install Vuex
 
 ``` bash
 $ npm install vuex
